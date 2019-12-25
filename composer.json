@@ -1,7 +1,9 @@
 {
     "name": "binlai/blmvcframework",
     "description": "my frist pro",
+    "keywords": ["bin", "lai", "blmvcframework"],
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "laibin",
