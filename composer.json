@@ -1,11 +1,11 @@
 {
-    "name": "administrator/blmvcframework",
+    "name": "binlai/blmvcframework",
     "description": "my frist pro",
     "type": "project",
     "authors": [
         {
             "name": "laibin",
-            "email": "893801115@qq.com"
+            "email": "893803215@qq.com"
         }
     ],
     "require": {}
